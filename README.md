@@ -1,4 +1,28 @@
 # SportShop
+
+For the online store, I used the Python language for all its functionalities, except payment and order processing where I used it
+JavaScript. The entire application was written in PyCharm. To create the store I used Python libraries such as JSON and Stripe to carry out the ordering process of the order. I used the PIL library to interpret and display the images.
+
+
+The applications that make up the project are the following:
+• Store - this is the main application of the project, where you can find the functionalities of registration, logging in and logging out, viewing the account and the cart and what appears on the main page together with the main templates for the main page, register, login, account, and cart.
+
+• Cart – in this application, all the functionalities of the cart are created: adding the product to the cart, deleting it, changing the quantity, viewing
+of the cart's total cost and the order's checkout function, each with the template corresponding to each action.
+
+• Order – the order application has the role of processing the items in the basket and their cost and creating the order
+
+• Product – is the last application, which has the role of displaying the product page with all its details, images, price, description, reviews and rating
+by buyers
+
+
+For the front end of the store, I used Django templates where I stored the HTML, Django template tags, and language.
+
+*** The templates used in this project weren't created by me,  I just modified and adapted them for my vision of the store design. ***
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Screenshot 2024-01-29 110013](https://github.com/ialin77/SportShop/assets/135040997/df221850-f12c-44bf-9684-17d06f867abc)
 ![Screenshot 2024-01-29 110043](https://github.com/ialin77/SportShop/assets/135040997/f88eb828-2b43-4ae0-bc9a-9dacae0aad58)
 ![Screenshot 2024-01-29 110057](https://github.com/ialin77/SportShop/assets/135040997/a3fd3004-389e-422c-bf53-3a940ec46c02)
