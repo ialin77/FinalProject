@@ -1,6 +1,6 @@
 # SportShop
 
-For the online store, I used the Python language for all its functionalities, except payment and order processing where I used it
+For the online store, I used the Python language for all functionalities, except payment and order processing where I used it
 JavaScript. The entire application was written in PyCharm. To create the store I used Python libraries such as JSON and Stripe to carry out the ordering process of the order. I used the PIL library to interpret and display the images.
 
 
@@ -10,7 +10,7 @@ The applications that make up the project are the following:
 • Cart – in this application, all the functionalities of the cart are created: adding the product to the cart, deleting it, changing the quantity, viewing
 of the cart's total cost and the order's checkout function, each with the template corresponding to each action.
 
-• Order – the order application has the role of processing the items in the basket and their cost and creating the order
+• Order – the order application has the role of processing the items in the cart and their cost and creating the order
 
 • Product – is the last application, which has the role of displaying the product page with all its details, images, price, description, reviews and rating
 by buyers
