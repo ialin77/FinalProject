@@ -5,6 +5,7 @@ JavaScript. The entire application was written in PyCharm. To create the store I
 
 
 The applications that make up the project are the following:
+
 • Store - this is the main application of the project, where you can find the functionalities of registration, logging in and logging out, viewing the account and the cart and what appears on the main page together with the main templates for the main page, register, login, account, and cart.
 
 • Cart – in this application, all the functionalities of the cart are created: adding the product to the cart, deleting it, changing the quantity, viewing
@@ -17,9 +18,11 @@ by buyers
 
 
 Database
+----------
 For the database of this project, I used DB SQLite3 for storing all my data of the store.
 
-
+Front end
+-----------
 For the front end of the store, I used Django templates where I stored the HTML, Django template tags, and language.
 
 *** The templates used in this project weren't created by me,  I just modified and adapted them for my vision of the store design. ***
