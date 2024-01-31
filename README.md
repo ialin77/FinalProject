@@ -2,10 +2,10 @@
 
 SportShop is an online shop dedicated to football products such as shirts, shorts, scarves, and mugs. 
 
-For the online store, I used the Python language for all its functionalities, except payment and order processing where I used it
+For the online store, I used the Python language for all functionalities, except payment and order processing where I used it
 JavaScript. The entire application was written in PyCharm. To create the store I used Python libraries such as JSON and Stripe to carry out the ordering process of the order. I used the PIL library to interpret and display the images.
 
-Also, during the realization of the project, I used the Djnago web framework for the development of the online store.
+Also, during the realization of the project, I used the Djnago web framework to develop the online store.
 
 The applications that make up the project are the following:
 
