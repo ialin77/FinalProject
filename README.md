@@ -14,7 +14,7 @@ The applications that make up the project are the following:
 • Cart – in this application, all the functionalities of the cart are created: adding the product to the cart, deleting it, changing the quantity, viewing
 of the cart's total cost and the order's checkout function, each with the template corresponding to each action.
 
-• Order – the order application has the role of processing the items in the basket and their cost and creating the order
+• Order – the order application has the role of processing the items in the cart and their cost and creating the order
 
 • Product – is the last application, which has the role of displaying the product page with all its details, images, price, description, reviews and rating
 by buyers
